@@ -1,0 +1,16 @@
+name: br
+channels:
+  - conda
+  - mantid
+  - conda-forge
+dependencies:
+  - mantid
+  - pillow
+  - numpy
+  - matplotlib
+  - plotly
+  - scipy
+  - scikit-image
+  - scikit-learn
+  - opencv
+  - ipywidgets
